@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "django": "^99.99.99",
+    "ngrok": "^5.0.0-beta.2"
+  }
+}
